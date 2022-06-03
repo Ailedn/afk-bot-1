@@ -1,10 +1,10 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-	host: '',
+	host: 'LaughPieceNpGg.aternos.me',
 	port: 25565,
-	username: '',
-	password: '',
+	username: 'Realisticly',
+	password: 'Aiden123',
 
 })
 
