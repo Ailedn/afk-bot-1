@@ -4,7 +4,7 @@ const bot = mineflayer.createBot({
 	host: 'LaughPieceNpGg.aternos.me',
 	port: 25565,
 	username: 'Realisticly',
-	password: 'Aiden123',
+	password: 'Aiden123*',
 
 })
 
